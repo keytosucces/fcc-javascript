@@ -1,5 +1,5 @@
 let dog = {
-  name: "Tomiokey",
+  name: "TomioKey",
   numLegs: 4
 };
 
